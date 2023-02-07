@@ -1,4 +1,4 @@
-//Complex Number Addition, Multiplication & Division
+//Complex Number Addition, Multiplication & Division Using Struct
 
 #include<stdio.h>
 
